@@ -1339,7 +1339,7 @@ a {
 }
 .cid-v1Pcb4DqKe {
   display: flex;
-  background-image: url("../../../assets/images/background17.jpg");
+  background-image: url("../../../assets/images/banner-e7bbbfe889b2-1-1464x600.jpg");
 }
 .cid-v1Pcb4DqKe .mbr-overlay {
   background-color: #000000;
@@ -1482,8 +1482,8 @@ a {
   height: 100%;
 }
 .cid-v1PcUFvPoy {
-  padding-top: 8rem;
-  padding-bottom: 8rem;
+  padding-top: 5rem;
+  padding-bottom: 4rem;
   background-color: #edefeb;
 }
 .cid-v1PcUFvPoy .mbr-fallback-image.disabled {
@@ -1519,6 +1519,9 @@ a {
   align-items: center;
   margin-right: -1rem;
   margin-left: -1rem;
+}
+.cid-v1PcUFvPoy .row {
+  flex-direction: row-reverse;
 }
 .cid-v1PcUFvPoy .image-wrapper {
   padding: 0 1rem;
@@ -1582,9 +1585,6 @@ a {
   align-items: center;
   margin-right: -1rem;
   margin-left: -1rem;
-}
-.cid-v1PcXjhsVD .row {
-  flex-direction: row-reverse;
 }
 .cid-v1PcXjhsVD .image-wrapper {
   padding: 0 1rem;
